@@ -1,5 +1,5 @@
-diskriminant calculator
+discriminant calculator
 
 
 
-2018 high school project
+2018 highschool project
